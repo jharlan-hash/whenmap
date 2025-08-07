@@ -1,3 +1,3 @@
-module github.com/jharlan-hash/map_dater
+module github.com/jharlan-hash/whenmap
 
 go 1.24.5
